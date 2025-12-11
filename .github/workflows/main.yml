@@ -35,4 +35,4 @@ jobs:
           plugin_languages_recent_days: 30
           optimize: svg
           experimental_features: --optimize-svg
-          config_display: columns
+          config_display: large
